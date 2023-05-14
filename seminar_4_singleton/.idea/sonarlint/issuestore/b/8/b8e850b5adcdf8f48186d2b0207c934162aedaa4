@@ -1,0 +1,15 @@
+
+\
+java:S1854"?Remove this useless assignment to local variable "presedinte3".(Éş¸Ñ8ËÇÏÈó0
+X	java:S125
+"<This block of commented-out lines of code should be removed.(¨™•£8çµÎÈó0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢Óº8éµÎÈó0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾¼8êµÎÈó0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¯ˆãúÿÿÿÿ8ìµÎÈó0
+M
+java:S1481"0Remove this unused "presedinte3" local variable.(Éş¸Ñ8ÓÇÏÈó0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¯ˆãúÿÿÿÿ8ÔÇÏÈó0
+Q
+java:S1128"5Remove this unused import 'singleton.model.Director'.(¥ß¼r8ÕÇÏÈó0
+S
+java:S1128"1Remove this unused import 'singleton.model.Papa'.(Å ‰¸ûÿÿÿÿ8ÕÇÏÈó0

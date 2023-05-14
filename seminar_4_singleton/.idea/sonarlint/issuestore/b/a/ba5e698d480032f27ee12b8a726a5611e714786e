@@ -1,0 +1,7 @@
+
+c
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ØÐöîþÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¨éï°þÿÿÿÿ
+C
+java:S1068	"(Remove this unused "nume" private field.(·Š“•úÿÿÿÿ
