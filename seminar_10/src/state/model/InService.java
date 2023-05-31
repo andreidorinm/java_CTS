@@ -8,6 +8,7 @@ public class InService implements IBusState {
     if (autobuz.getState() instanceof InEndOfRoute) {
       System.out.println(
           String.format("The bus %s started goin to the service", autobuz.getLicensePlate()));
+      autobuz.setState(this);
     } else {
       System.out.println(String.format("The %s cannot go to the service", autobuz.getLicensePlate()));
     }

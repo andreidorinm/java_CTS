@@ -14,6 +14,6 @@ public class Client implements IClient {
 
     @Override
     public String getNume() {
-        return null;
+        return this.nume;
     }
 }

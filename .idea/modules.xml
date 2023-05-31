@@ -4,12 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cts_seminars.iml" filepath="$PROJECT_DIR$/cts_seminars.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_10/seminar_10.iml" filepath="$PROJECT_DIR$/seminar_10/seminar_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar_11/seminar_11.iml" filepath="$PROJECT_DIR$/seminar_11/seminar_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar_11_testing/seminar_11_testing.iml" filepath="$PROJECT_DIR$/seminar_11_testing/seminar_11_testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_2/seminar_2.iml" filepath="$PROJECT_DIR$/seminar_2/seminar_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_4_singleton/seminar_4_singleton.iml" filepath="$PROJECT_DIR$/seminar_4_singleton/seminar_4_singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_5_factory/seminar_5_factory.iml" filepath="$PROJECT_DIR$/seminar_5_factory/seminar_5_factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_6_builder/seminar_6_builder.iml" filepath="$PROJECT_DIR$/seminar_6_builder/seminar_6_builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_8_adapter/seminar_8_adapter.iml" filepath="$PROJECT_DIR$/seminar_8_adapter/seminar_8_adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_9/seminar_9.iml" filepath="$PROJECT_DIR$/seminar_9/seminar_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work-for-test/work-for-test.iml" filepath="$PROJECT_DIR$/work-for-test/work-for-test.iml" />
     </modules>
   </component>
 </project>

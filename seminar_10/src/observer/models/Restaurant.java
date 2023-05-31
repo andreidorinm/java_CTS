@@ -25,7 +25,7 @@ public class Restaurant implements IRestaurant {
   @Override
   public void trimiteNotificare(String mesaj) {
     for (IClient c : clienti) {
-      System.out.println("Restaurantul " + nume + "iti trimite notificare : " + mesaj);
+      System.out.println("SAlUT " + c.getNume() + " Restaurantul " + nume + "iti trimite notificare : " + mesaj);
     }
   }
   public void adaugaMeniuNou(){
